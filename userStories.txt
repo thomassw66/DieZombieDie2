@@ -1,0 +1,27 @@
+User Stories
+
+1.As a player, I want a start menu, so that I can enter the game.
+
+2. As a player, I want a timer, so that I can see how much time I have left in the game.
+
+3. As a player, I want display, so that I can see how many point I currently have in the  
+game. 
+
+4. As a player, I want track the stats in my game, to see how many shots are fired in my the 
+game.
+
+5. As a player,  I want, I want to track my stats, to see my overall accuracy in the game.
+
+6. As a player, I would like a reset button, so that I can reset the current game.
+
+7. As a player, I would like a game over screen, so I know when the game was over.
+
+8.As a player, I want instructions on the start menu, so that I know how play before the
+game starts.
+
+9.As a player, I want simple controls, so the game is easy to start playing.
+
+10.As a player, I want an in game sprite, so that I know where my character is.
+
+11.As a player, I want a sprite that can move around the map, so that I can shoot and run
+away from zombies.
